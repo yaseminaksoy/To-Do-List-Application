@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.AssemblyInfo.cs
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Business.deps.json
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Business.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Business.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.DataAccess.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Entities.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.DataAccess.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\bin\Debug\netcoreapp3.1\ToDo.Entities.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.csproj.CopyComplete
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Business\obj\Debug\netcoreapp3.1\ToDo.Business.pdb

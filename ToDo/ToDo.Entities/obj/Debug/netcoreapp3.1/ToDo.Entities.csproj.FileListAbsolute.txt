@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\bin\Debug\netcoreapp3.1\ToDo.Entities.deps.json
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\bin\Debug\netcoreapp3.1\ToDo.Entities.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\bin\Debug\netcoreapp3.1\ToDo.Entities.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.AssemblyInfo.cs
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.Entities\obj\Debug\netcoreapp3.1\ToDo.Entities.pdb

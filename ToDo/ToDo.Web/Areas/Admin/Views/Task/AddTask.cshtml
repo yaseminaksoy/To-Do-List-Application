@@ -1,0 +1,37 @@
+﻿@model TaskAddViewModel
+@{
+    ViewData["Title"] = "AddTask";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form asp-action="AddTask" method="post" class="w-75 mx-auto p-3">
+    <div class="form-group">
+        <label>Name : </label>
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <input type="text" asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Description : </label>
+        <span asp-validation-for="Description" class="text-danger"></span>
+        <textarea asp-for="Description" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label>Choose priority status</label>
+        <span asp-validation-for="PriorityId" class="text-danger"></span>
+        <select asp-for="PriorityId" class="form-control" asp-items="ViewBag.Priorities">
+            <option hidden value="-1">Choose..</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Finish Date</label>
+        <span asp-validation-for="DateFinish" class="text-danger"></span>
+        <input class="form-control" type="datetime-local" asp-for="DateFinish" data-val="true" asp-format="{0:yyyy-MM-ddTHH:mm}" value="@DateTime.Now" />
+    </div>
+    <button type="submit" class="btn btn-info btn-sm">Save</button>
+</form>
+
+@section JavaScript{
+    <script src="~/lib/jqueryValidate/jquery.validate.min.js"></script>
+    <script src="~/lib/jqueryUnob/jquery.validate.unobtrusive.min.js"></script>
+
+}

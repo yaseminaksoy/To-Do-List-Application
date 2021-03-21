@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.DataAccess.deps.json
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.DataAccess.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.DataAccess.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.AssemblyInfo.cs
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.Entities.dll
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.DataAccess.runtimeconfig.json
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.DataAccess.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\bin\Debug\netcoreapp3.1\ToDo.Entities.pdb
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.csproj.CopyComplete
+C:\Users\Asus\Desktop\github\To-Do-List-Application\ToDo\ToDo.DataAccess\obj\Debug\netcoreapp3.1\ToDo.DataAccess.genruntimeconfig.cache
