@@ -1,7 +1,8 @@
 <h1> To-Do-List-Application </h1>
 </br>
-</br>
+
 Projeyi çalıştırmak istediğinizde öncelikle oluşturulan migrationları bilgisayarınıza kaydetmelisiniz.
+</br>
 </br>
 Bunun için gerekli adımlar:
 </br>
