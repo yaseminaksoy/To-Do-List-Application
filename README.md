@@ -7,7 +7,7 @@ Projeyi çalıştırmak istediğinizde öncelikle oluşturulan migrationları bi
 Bunun için gerekli adımlar:
 </br>
 1- ToDo.DataAccess projesine sağ tıklayarak Set as startup project seçin </br>
-2- Project Manager Console'da Default proje ToDo.DataAccess seçildiğinden emin olarak update-database komutunu çalıştırınız.
+2- Package Manager Console'da Default proje ToDo.DataAccess seçildiğinden emin olarak update-database komutunu çalıştırınız.
 </br>
 3- Ardından ToDo.Web projesini Set as startup project seçerek uygulamayı çalıştırabilirsiniz :)
 </br>
